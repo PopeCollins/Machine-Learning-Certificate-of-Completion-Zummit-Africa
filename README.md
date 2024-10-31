@@ -2,8 +2,8 @@
 
 Certificate of completion from zummit Africa
 
-I was priviledge to was selected among few folks to under go the training in machine learning. The internship programm initiated a training that started with the basic to a notable standard in machine learning. 
-Below are project i participated and completed during the internship programm
+I was privileged to be selected among a select few to undergo machine learning training. The internship program initiated a training that started with the basics and ended with a notable standard in machine learning. 
+Below are projects I participated in and completed during the internship program
 
 
 Data Visualization with Python
@@ -18,8 +18,8 @@ Working with MNIST Data (Image Classification)
 
 Email Classifier: The Basis of Logistics Regression 
 
-Hyperparamater Tuning using GridSearchCv
+Hyperparameter Tuning using GridSearchCv
 
-Hyperparamater Tuning using Tensorflow
+Hyperparameter Tuning using Tensorflow
 
 
